@@ -143,7 +143,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or feedback:
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- Email: mohamed.a.abdallhady@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-anwar-28776a236/
 
 Thank you for exploring the Employee Management System! 🚀
